@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   
 - 📚 Profundizando en principios SOLID y Domain Driven Design (DDD)
   
-- 🔍 Me interesa todo lo referido a sistemas distribuidos🌐
+- 🔍 Me interesa todo lo referido a sistemas distribuidos 🖥🌐
 
 - 👷🏻‍♂️ Trabajando en proyectos bajo Metodologías Ágiles con Trello y Jira
   
