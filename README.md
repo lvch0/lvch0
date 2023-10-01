@@ -13,6 +13,6 @@ Here are some ideas to get you started:
   
 - 🔍 Me interesa todo lo referido a sistemas distribuidos 🖥🌐
 
-- 👷🏻‍♂️ Trabajando en proyectos bajo Metodologías Ágiles con Trello y Jira
+- 👷🏻‍♂️ Trabajando en proyectos bajo Metodologías Ágiles con Trello y Jira 📈
   
-- 👨🏻‍💻 Abierto a propuestas de desarrollo
+- 👨🏻‍💻 Abierto a propuestas de desarrollo 🔧
